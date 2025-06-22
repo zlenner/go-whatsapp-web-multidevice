@@ -1,5 +1,7 @@
 # WhatsApp API Multi Device Version
 
+⚠️ PR merged into the main repo, archiving.
+
 [![Patreon](https://img.shields.io/badge/Support%20on-Patreon-orange.svg)](https://www.patreon.com/c/aldinokemal)  
 **If you're using this tools to generate income, consider supporting its development by becoming a Patreon member!**  
 Your support helps ensure the library stays maintained and receives regular updates!
